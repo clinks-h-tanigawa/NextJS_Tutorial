@@ -4,7 +4,6 @@
   "description": "A simple static site project",
   "main": "src/index.html",
   "scripts": {
-    "dev": "next dev"
   },
   "keywords": [],
   "author": "",
