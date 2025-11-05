@@ -1,0 +1,20 @@
+{
+  "name": "my-static-site",
+  "version": "1.0.0",
+  "description": "A simple static site project",
+  "main": "src/index.html",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^14.0.3",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}

@@ -1,0 +1,19 @@
+# Dependencies
+AppRouter/node_modules/
+**/node_modules/
+
+# Next.js
+.next/
+out/
+
+# Logs
+*.log
+
+# OS/Editor
+.DS_Store
+.env*
+.idea/
+.vscode/
+
+# Build
+dist/
