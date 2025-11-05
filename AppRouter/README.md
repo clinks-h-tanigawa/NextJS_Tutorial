@@ -1,48 +1,5 @@
-# My Static Site
+## Next.js App Router Course - Starter
 
-This is a simple static site project that demonstrates the use of HTML, CSS, and JavaScript.
+This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
 
-## Project Structure
-
-```
-my-static-site
-├── src
-│   ├── index.html        # Main HTML document
-│   ├── styles
-│   │   └── style.css     # Styles for the HTML document
-│   └── scripts
-│       └── main.js       # JavaScript for interactivity
-├── package.json          # npm configuration file
-├── .gitignore            # Files and directories to ignore by Git
-└── README.md             # Project documentation
-```
-
-## Getting Started
-
-To get started with this project, follow these steps:
-
-1. Clone the repository:
-   ```
-   git clone <repository-url>
-   ```
-
-2. Navigate to the project directory:
-   ```
-   cd my-static-site
-   ```
-
-3. Install dependencies (if any):
-   ```
-   npm install
-   ```
-
-4. Open `src/index.html` in your web browser to view the site.
-
-## Usage
-
-- Modify `src/styles/style.css` to change the appearance of the site.
-- Update `src/scripts/main.js` to add or modify interactivity.
-
-## License
-
-This project is licensed under the MIT License.
+For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
